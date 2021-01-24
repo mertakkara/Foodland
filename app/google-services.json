@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "96574946224",
+    "firebase_url": "https://cricket-17449.firebaseio.com",
+    "project_id": "cricket-17449",
+    "storage_bucket": "cricket-17449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96574946224:android:d39fdaddd6fae212",
+        "android_client_info": {
+          "package_name": "com.example.merta.cricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96574946224-7p2fgijjucpknjia40mt4i5vfba3bhe2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merta.cricket",
+            "certificate_hash": "a73be64b12f31a9d021e08a30deffb21c59cd87f"
+          }
+        },
+        {
+          "client_id": "96574946224-rl73qqmgnvms3se2hn0k44kbhh9m6i1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlI9Oo5RXV5XwNroW51F_YcVs8PU0n458"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96574946224-rl73qqmgnvms3se2hn0k44kbhh9m6i1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96574946224:android:959898715ded395cd6f475",
+        "android_client_info": {
+          "package_name": "com.rationalstudio.foode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96574946224-ddt45cf0pqtdgm0mb8pdtl640dvitn68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rationalstudio.foode",
+            "certificate_hash": "a73be64b12f31a9d021e08a30deffb21c59cd87f"
+          }
+        },
+        {
+          "client_id": "96574946224-rl73qqmgnvms3se2hn0k44kbhh9m6i1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlI9Oo5RXV5XwNroW51F_YcVs8PU0n458"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96574946224-rl73qqmgnvms3se2hn0k44kbhh9m6i1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96574946224:android:9c585febad375dbcd6f475",
+        "android_client_info": {
+          "package_name": "com.rationalstudio.foodland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96574946224-tcior1tkbgogrsmmumqa4bi3phvdak2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rationalstudio.foodland",
+            "certificate_hash": "a73be64b12f31a9d021e08a30deffb21c59cd87f"
+          }
+        },
+        {
+          "client_id": "96574946224-rl73qqmgnvms3se2hn0k44kbhh9m6i1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlI9Oo5RXV5XwNroW51F_YcVs8PU0n458"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96574946224-rl73qqmgnvms3se2hn0k44kbhh9m6i1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

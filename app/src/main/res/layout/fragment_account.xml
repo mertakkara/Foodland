@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.HomeFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/layout"
+            android:orientation="horizontal"
+            android:layout_alignParentTop="true"
+            android:weightSum="2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="Yemğin adını girin:"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+            <EditText
+                android:id="@+id/name"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:hint="Yemek adını girin"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+
+
+                <TextView
+                    android:text="İçindekileri  girin:"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <EditText
+                    android:id="@+id/ind"
+                    android:layout_width="match_parent"
+                    android:hint="İçinkileri girin"
+                    android:layout_height="wrap_content"/>
+            <TextView
+                android:text="Tarifi  girin:"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <EditText
+                android:id="@+id/recip"
+                android:layout_width="match_parent"
+                android:hint="Tarifi girin"
+                android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:id="@+id/layout_button"
+        android:orientation="horizontal"
+        android:layout_alignParentTop="true"
+        android:weightSum="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!--Button for choosing image from gallery-->
+        <Button
+            android:id="@+id/btnChoose"
+            android:text="Fotoğraf Seç"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+        <!--Button for uploading image-->
+        <Button
+            android:id="@+id/btnUpload"
+            android:text="Fotoğrafı Onayla"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <!--Image View for showing image choosen from gallery-->
+    <ImageView
+
+        android:id="@+id/imgView"
+        android:layout_width="match_parent"
+        android:layout_height="400dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/addrecipe"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:textColor="@color/cardview_light_background"
+                android:text="Tarifi Ekle"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</FrameLayout>
