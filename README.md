@@ -5,5 +5,5 @@ Sunucu tarafı Flask ile yazılmış bir Android yemek tavsiye mobil uygulaması
 
 <img align="right" src="https://github.com/mertakkara/NePisirsem/blob/master/Screenshot_1606755802.png" width="300" height="300">
 <img align="left"  src="https://github.com/mertakkara/NePisirsem/blob/master/Screenshot_1606920301.png" width="300" height="300">
-<img    src="https://github.com/mertakkara/NePisirsem/blob/master/Screenshot_1606920813.png" width="300" height="300">
+<img     src="https://github.com/mertakkara/NePisirsem/blob/master/Screenshot_1606920813.png" width="300" height="300">
 <img src="https://github.com/mertakkara/NePisirsem/blob/master/Screenshot_1609192350.png" width="300" height="300">
